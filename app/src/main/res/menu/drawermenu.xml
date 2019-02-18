@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/db"
+        android:title="dashboard"
+        android:icon="@drawable/dashboard"/>
+    <item
+        android:id="@+id/events"
+        android:title="Events"
+        android:icon="@drawable/event"/>
+    <item
+        android:id="@+id/setting"
+        android:title="settings"
+        android:icon="@drawable/settings"/>
+    <item
+        android:id="@+id/search"
+        android:title="search"
+        android:icon="@drawable/search"/>
+    <item
+        android:id="@+id/share"
+        android:title="share"
+        android:icon="@drawable/share"/>
+
+    <item
+        android:id="@+id/action_item1"
+        android:icon="@drawable/ic_account_box_black_24dp"
+        android:title="item_1"/>
+    <item
+        android:id="@+id/action_item2"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:title="item_2"/>
+    <item
+        android:id="@+id/action_item3"
+        android:icon="@drawable/ic_assignment_ind_black_24dp"
+        android:title="item_3"/>
+
+
+    <item
+        android:id="@+id/logout"
+        android:title="logout"
+        android:icon="@drawable/block"/>
+
+
+
+
+
+
+</menu>
